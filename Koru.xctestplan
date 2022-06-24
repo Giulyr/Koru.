@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "CF6AE28E-A5FD-43E1-BA20-1420305FEEC2",
+      "name" : "Configuration 1",
+      "options" : {
+        "nsZombieEnabled" : true,
+        "targetForVariableExpansion" : {
+          "containerPath" : "container:Koru.xcodeproj",
+          "identifier" : "37F9F25628454FC500D469A8",
+          "name" : "Koru"
+        }
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "nsZombieEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Koru.xcodeproj",
+      "identifier" : "37F9F25628454FC500D469A8",
+      "name" : "Koru"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
