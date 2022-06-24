@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-tooltip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/quassum/SwiftUI-Tooltip.git",
+      "state" : {
+        "revision" : "9f617c20169fb260b887ac4a21497238a1bb1032",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swifty-sk-scroll-view",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/crashoverride777/swifty-sk-scroll-view.git",
+      "state" : {
+        "revision" : "498c51060b96d6648842972eb57e46e9d252914c",
+        "version" : "2.5.0"
+      }
+    },
+    {
+      "identity" : "unleashswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apemaia99/UnleashSwiftUI.git",
+      "state" : {
+        "revision" : "3e580d68ee3e29287f99bca70b7231d5823ee6e2",
+        "version" : "0.0.8"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "31A83A24-1F63-4DD7-B5A4-53E18B76724A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "nsZombieEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Koru.xcodeproj",
+      "identifier" : "37F9F25628454FC500D469A8",
+      "name" : "Koru"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
